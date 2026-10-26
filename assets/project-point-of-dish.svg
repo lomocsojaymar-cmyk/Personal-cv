@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">PointOFDish project illustration</title>
+  <rect width="800" height="500" fill="#e8efe9"/>
+  <circle cx="130" cy="390" r="150" fill="#cae6d8"/>
+  <rect x="83" y="64" width="634" height="372" rx="24" fill="#fff"/>
+  <rect x="83" y="64" width="634" height="72" rx="24" fill="#10243a"/>
+  <text x="122" y="109" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">PointOFDish</text>
+  <text x="122" y="192" fill="#10243a" font-family="Arial,sans-serif" font-size="39" font-weight="700">A food-themed project</text>
+  <text x="124" y="229" fill="#5d6e7b" font-family="Arial,sans-serif" font-size="19">Explore the source on GitHub</text>
+  <circle cx="563" cy="308" r="91" fill="#dcefe9" stroke="#0c8d79" stroke-width="9"/>
+  <circle cx="563" cy="308" r="57" fill="#fff"/>
+  <path d="M540 281c8-9 20-9 28 0 8 9 20 9 28 0" fill="none" stroke="#0c8d79" stroke-width="9" stroke-linecap="round"/>
+  <path d="M538 324h51" stroke="#0c8d79" stroke-width="9" stroke-linecap="round"/>
+  <rect x="122" y="296" width="205" height="52" rx="26" fill="#0c8d79"/>
+  <text x="150" y="329" fill="#fff" font-family="Arial,sans-serif" font-size="17" font-weight="700">VIEW REPOSITORY</text>
+</svg>
